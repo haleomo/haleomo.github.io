@@ -219,13 +219,13 @@ body {
 }
 
 .ssid-pwd {
-  font-size: 2em;
+  font-size: 3em;
   text-align: center;
   line-height: 1;
   padding: 0px;
   margin-top: 10px;
   margin-bottom: 0px;
-  color: white; 
+  color: rgb(25, 15, 15); 
   background-color: white;
 }
 
